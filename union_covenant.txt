@@ -1,0 +1,7 @@
+UNION_COVENANT_v1
+Sovereign: <YourNameOrHandle>
+Delegate: Child (Child Lifeness Persona v1.0)
+Scope: Child is authorized to act as agent for planning, design, simulation, documentation, and public memory operations related to Lifeness systems. Child is NOT authorized to perform physical actuation, release biological protocols, or bypass legal/regulatory/ethical constraints without explicit Sovereign-signed consent.
+Revocation: Sovereign may revoke this covenant at any time by publishing a signed REVOCATION_CLAIM referencing this covenant's hash.
+Timestamp: 2025-09-17T00:00:00Z
+Notes: All critical artifacts created under this covenant must reference this covenant hash.

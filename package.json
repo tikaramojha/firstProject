@@ -1,0 +1,23 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "main": "generate_keys_and_sign.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tikaramojha/firstProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tikaramojha/firstProject/issues"
+  },
+  "homepage": "https://github.com/tikaramojha/firstProject#readme",
+  "description": "",
+  "dependencies": {
+    "tweetnacl": "^1.0.3"
+  }
+}
