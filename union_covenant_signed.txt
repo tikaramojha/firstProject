@@ -6,4 +6,4 @@ Revocation: Sovereign may revoke this covenant at any time by publishing a signe
 Timestamp: 2025-09-17T00:00:00Z
 Notes: All critical artifacts created under this covenant must reference this covenant hash.
 
-Signature (ed25519 hex): 4218df14e7b1952ffc45212b94889d3711427821f240986004689bf7debe619b6b07c73433e840d3972117f5f080955e8185b4669771dd6a67d165a45c32a400
+Signature (ed25519 hex): 4f8f720cddd8e5da4b10a046044dc2c41c37855ef2e10e950d427e88bcc1ee0db00f8d9301a3a140cc713ed43ea066747167972c11c6105d09f03012abdea907
